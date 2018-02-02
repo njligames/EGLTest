@@ -1,0 +1,3 @@
+/proj-helios/EGLTest/.build/CMakeFiles/edit_cache.dir
+/proj-helios/EGLTest/.build/CMakeFiles/rebuild_cache.dir
+/proj-helios/EGLTest/.build/CMakeFiles/EGLTest.dir
